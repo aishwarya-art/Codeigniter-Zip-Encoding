@@ -9,3 +9,6 @@ add_data() - This method will add data to Zip file. In this define path of the f
 archive() - This method will write file to the specified directory, in this method we have to define file name with complete path.
 
 download() - This method will download created Zip file in our local computer, in this method we have to define zip file name.
+
+[Screencast from 04-10-23 04:34:32 PM IST.webm](https://github.com/aishwarya-art/Codeigniter-Zip-Encoding/assets/113532088/f9df1c08-53be-483a-838e-603c3552aef4)
+
